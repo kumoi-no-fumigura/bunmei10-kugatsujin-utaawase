@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/bunmei10-kugatsujin-utaawase",
  "yomi": "ぶんめいじゅうねんくがつじんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三十番・三題）",
+  "era": "文明10年（1478）9月尽日",
+  "author": "判は衆議",
+  "desc": "九月尽の日に、遠山鹿・暮秋・寄弓恋の三題で詠んだ三十番の歌合。作者の名を隠して番え、宮御方・式部卿親王・甘露寺親長・実隆らが詠む。判は衆議で定める。"
+ },
  "editions": [
   {
    "pid": "1879502",
